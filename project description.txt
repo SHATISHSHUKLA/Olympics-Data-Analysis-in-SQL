@@ -27,11 +27,7 @@ import these datasets in sql server and solve below problems:
 
 
 
-congratulations you have unlocked datalemur premium subscription:
 
-URL : https://datalemur.com/questions
-username : sql.namaste@gmail.com
-password : Namastesql22
 
 
 
